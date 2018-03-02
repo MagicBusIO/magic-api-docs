@@ -22,3 +22,9 @@ build/
 _yardoc
 doc/
 .idea/
+
+# project
+.ruby-gemset
+.ruby-version
+magic-api-docs.sublime-project
+magic-api-docs.sublime-workspace
