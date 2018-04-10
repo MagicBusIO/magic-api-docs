@@ -219,3 +219,6 @@ api.bookings.get(2)
 
 # Transit Networks
 
+# Development
+
+Develop your own apps with our <a href='/library.html'>platform library</a>
